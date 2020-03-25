@@ -8,3 +8,7 @@ Omlette
 Veg Mo:Mo
 
 Chicken Fry
+
+Pizza
+Burger
+Zomato
